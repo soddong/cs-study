@@ -11,7 +11,6 @@ static class Node {
 static class SingleLinkedListElements {
     Node head;
     Node tail;
-
     int size;
 
     public SingleLinkedListElements() {
